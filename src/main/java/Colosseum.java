@@ -53,7 +53,7 @@ public class Colosseum {
      * Requirements we should check the user for: <br>
      * - The type of Pokemon is 1 of the 3 choices <br>
      * - Hit points are between 1 and MAX_HIT_POINTS <br>
-     * - No more than 50 points are split between attack level and defense leve <br>
+     * - No more than 50 points are split between attack level and defense level <br>
      * - Attack level and defense level must have at least 1 point each <br>
      * Example of how this will look to the user:
      * <p>
